@@ -1,3 +1,6 @@
 [submodule "gitoedel3"]
 	path = gitoedel3
 	url = https://github.com/rubensfig/gitoedel3
+[submodule "gitoedel2"]
+	path = gitoedel2
+	url = https://github.com/rubensfig/gitoedel2
